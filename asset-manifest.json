@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Saraswathi-packiaraja.github.io/my-personal-website/static/css/main.74579aba.css",
+    "main.js": "/Saraswathi-packiaraja.github.io/my-personal-website/static/js/main.10932604.js",
+    "static/media/python.jpg": "/Saraswathi-packiaraja.github.io/my-personal-website/static/media/python.65cb0ed0d30e5cea39de.jpg",
+    "index.html": "/Saraswathi-packiaraja.github.io/my-personal-website/index.html",
+    "main.74579aba.css.map": "/Saraswathi-packiaraja.github.io/my-personal-website/static/css/main.74579aba.css.map",
+    "main.10932604.js.map": "/Saraswathi-packiaraja.github.io/my-personal-website/static/js/main.10932604.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74579aba.css",
+    "static/js/main.10932604.js"
+  ]
+}
